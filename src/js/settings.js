@@ -1,5 +1,5 @@
 'use strict';
 
-module.exports = { 
-  etsyApiKey: 'YOURETSYKEY' 
+module.exports = {
+  etsyApiKey: '7hm2xs06lwlbh0brtr0nzirz' 
 };
